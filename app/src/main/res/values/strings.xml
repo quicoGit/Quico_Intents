@@ -6,4 +6,9 @@
     <string name="btn_googleMaps">GOOGLE MAPS</string>
     <string name="btn_hacerFoto">HACER FOTO</string>
     <string name="btn_mandarCorreo">MANDAR CORREO</string>
+    <string name="btn_busquedaWeb">BÚSQUEDA WEB</string>
+    <string name="btn_dialerTelefono">DIALER DE TELÉFONO</string>
+    <string name="btn_streetView">STREET VIEW</string>
+    <string name="btn_compartir">COMPARTIR CON …</string>
+    <string name="necesitaGoogleMaps">Necesita descargar la aplicación Google Maps para poder abrir el modo Street View</string>
 </resources>

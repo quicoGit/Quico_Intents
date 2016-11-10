@@ -54,4 +54,40 @@
         android:layout_centerHorizontal="true"
         android:onClick="mandarCorreo" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_busquedaWeb"
+        android:id="@+id/button6"
+        android:onClick="busquedaWeb"
+        android:layout_below="@+id/button5"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_dialerTelefono"
+        android:id="@+id/button7"
+        android:onClick="dialer"
+        android:layout_below="@+id/button6"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_streetView"
+        android:id="@+id/button8"
+        android:onClick="streetView"
+        android:layout_below="@+id/button7"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_compartir"
+        android:id="@+id/button9"
+        android:onClick="compartirCon"
+        android:layout_below="@+id/button8"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
